@@ -32,5 +32,6 @@ pip install tensorboardx
 ### 运行
 
 ```shell
+cd src
 python main.py <args>
 ```
