@@ -28,3 +28,9 @@ pip install scikit-learn
 pip install tqdm
 pip install tensorboardx
 ```
+
+### 运行
+
+```shell
+python main.py <args>
+```
