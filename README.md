@@ -1,4 +1,4 @@
-LightGCN
+# LightGCN
 
 本项目是对[LightGCNpp](https://github.com/geon0325/LightGCNpp) 项目的整理
 
